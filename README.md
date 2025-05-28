@@ -15,10 +15,10 @@ Before Starting I want to give credits to respective owners:
 This is my plymouth theme. It is designed for 1920x1080 pixel devices but appearently looks good in smaller scales too. For upper scales, Sorry bud, If you open an issue I will give it a try though, but Since I don't have those devices; I can't test it, it's up to you to testing and using it.
 
 # Preview
-Here is how it looks it from vm. Notice that **vm has lower scaling** so full scaled video are not rendered here.  This is intentional, because with scaling it takes too long to render. OS starts before plymouth splash are showing itself.  
+Here is how it looks it from vm. Notice that **vm has lower scaling** so full scaled video are not rendered here.  This is intentional, because with scaling it takes too long to render. OS starts before plymouth splash are showing itself.  (gif takes long time to load)
 ![preview](preview.gif)
 
-This is what full scaled video looks like. This is also how video rendered in my device. Notice that down below video are not a full bootsplash video but it is the background video.
+This is what full scaled video looks like. This is also how video rendered in my device. Notice that down below video are not a full bootsplash video but it is the background video.(gifs take long time to load :P)
 ![MyLinuxBootsplash](MyLinuxBootsplash.gif)
 
 # Installing
