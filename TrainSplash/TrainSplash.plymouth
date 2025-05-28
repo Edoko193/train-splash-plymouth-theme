@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=TrainSplash
+Description=Next gen splash with good animations
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/TrainSplash
+ScriptFile=/usr/share/plymouth/themes/TrainSplash/TrainSplash.script
