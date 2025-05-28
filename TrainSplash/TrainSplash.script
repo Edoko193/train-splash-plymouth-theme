@@ -1,4 +1,5 @@
 # I made this disaster because I dont want to write from scratch because I hate restarting systems, switching root, rebuilding initramfs and hope that it works every single time.
+# I am using this on my pc though, code not clean doesn't mean it is bad.
 # If you want to edit theme just change png files with yours, and change image count in line 24
 
 Window.SetBackgroundTopColor (0, 0, 0);
