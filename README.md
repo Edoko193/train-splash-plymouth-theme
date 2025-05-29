@@ -25,4 +25,5 @@ This is what full scaled video looks like. This is also how video rendered in my
 Install plymouth from your distro. copy `TrainSplash` folder to `/usr/share/plymouth/themes` and tell plymouth to set this as default theme(`plymouth-set-default-theme -R TrainSplash`). Reboot and its yours.
 
 # Closing thoughts
+I can make this theme so much better, add effects, make loading bar better, modernize ui etc etc. But there is no reason for me to do it now because only user of this theme are me and I am pretty happy with current state of the theme. If other people starts using this and they want me to modernize ui, I will do that, thanks.
 I think I made a good bootsplash for myself. For owners of this assets, if you are using linux and want me to make a theme for you , I will gladly do that for you and make it even better than this. Thanks for reading and have a nice day. 
